@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "My Name is Ethan,\nI am 15 years old." << std::endl;
+    std::cout << "My name is Ethan,\nI am 15 years old." << std::endl;
     return 0;
 }
